@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "738175826076",
+    "firebase_url": "https://thegbu02.firebaseio.com",
+    "project_id": "thegbu02",
+    "storage_bucket": "thegbu02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738175826076:android:75b508e52c17ad05",
+        "android_client_info": {
+          "package_name": "com.sametcoh.thegbu02"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738175826076-l6tv8lb8uh81q595a3tnc2bmamtoqirt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sametcoh.thegbu02",
+            "certificate_hash": "c37ecae793f42958c07feafc049fb43e2b52f272"
+          }
+        },
+        {
+          "client_id": "738175826076-9c3t600pr88nb01kjfi0i3nl2rj47p9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPt3elSh34dfus2WBOpcq2_hKJf-Zli1w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738175826076-9c3t600pr88nb01kjfi0i3nl2rj47p9p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
